@@ -7,4 +7,6 @@ Add this *pug*in to your WordPress installation and you'll gett all of following
 
 - A new meta tag with Doge.
 
+![Screenshot of the Doge-state plugin for WordPress](https://raw.github.com/EarthPeople/doge-state-for-wordpress/master/screenshot.png)
+
 Cheers!
