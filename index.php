@@ -99,7 +99,9 @@ class ep_doge {
 
 	function add_doge_state() {
 
-		printf('<meta name="__DOGE-STATE" content="%1$s">', $this->doge_state);
+		echo "\n";
+		printf('<meta name="__DOGESTATE" id="__DOGESTATE" content="%1$s">', $this->doge_state);
+		echo "\n";
 
 	}
 
