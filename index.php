@@ -13,7 +13,7 @@
 if (!defined("ABSPATH"))
 	die();
 
-// Class for all our Cision things
+// Class for all our doge things
 class ep_doge {
 
 	// This is the wonderful source
